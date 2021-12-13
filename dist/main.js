@@ -1,0 +1,1 @@
+(()=>{const e=document.querySelector("canvas");e.width=window.innerWidth,e.height=window.innerHeight,e.getContext("2d")})();
